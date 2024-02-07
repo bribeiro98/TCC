@@ -1,4 +1,4 @@
-/*Apesar do aumento na participação de fontes renováveis na produção de energia, o 
+*Apesar do aumento na participação de fontes renováveis na produção de energia, o 
 petróleo ainda se destaca como a principal fonte na matriz energética global. Diante a 
 relevância dessa commodity para a economia mundial, esta pesquisa buscou 
 investigar os principais fatores que desencadearam as flutuações no preço do barril 
@@ -18,4 +18,4 @@ financeira, criando uma bolha de falsa prosperidade nos EUA. Um aspecto adiciona
 a ser destacado é a repetição de conflitos armados, como evidenciado nos casos da 
 guerra Russo-Ucraniana e do conflito Palestino-Israelense, que já ocorreram em 
 configurações semelhantes no passado e que podem desencadear uma nova série 
-de flutuações nos preços internacionais do petróleo.*/
+de flutuações nos preços internacionais do petróleo.*
